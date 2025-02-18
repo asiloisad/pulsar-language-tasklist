@@ -1,7 +1,7 @@
 {
   "name": "language-tasklist",
   "description": "Tasklist simple grammar",
-  "repository": "https://github.com/bacadra/pulsar-language-tasklist",
+  "repository": "https://github.com/asiloisad/pulsar-language-tasklist",
   "keywords": [
     "tasklist",
     "language"

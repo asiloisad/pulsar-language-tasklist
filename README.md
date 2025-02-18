@@ -2,15 +2,15 @@
 
 Tasklist simple grammar. This package is provided for `TODO`, `*.todo`, and `*.tasklist` files.
 
-![language-tasklist](https://github.com/bacadra/pulsar-language-tasklist/blob/master/assets/example.png?raw=true)
+![language-tasklist](https://github.com/asiloisad/pulsar-language-tasklist/blob/master/assets/example.png?raw=true)
 
 ## Installation
 
-To install `language-tasklist` search for [language-tasklist](https://web.pulsar-edit.dev/packages/language-tasklist) in the Install pane of the Pulsar settings or run `ppm install language-tasklist`. Alternatively, you can run `ppm install bacadra/pulsar-language-tasklist` to install a package directly from the Github repository.
+To install `language-tasklist` search for [language-tasklist](https://web.pulsar-edit.dev/packages/language-tasklist) in the Install pane of the Pulsar settings or run `ppm install language-tasklist`. Alternatively, you can run `ppm install asiloisad/pulsar-language-tasklist` to install a package directly from the Github repository.
 
 ## Tools
 
-A superset of commands is provided by the [tasklist-tools](https://github.com/bacadra/pulsar-tasklist-tools).
+A superset of commands is provided by the [tasklist-tools](https://github.com/asiloisad/pulsar-tasklist-tools).
 
 ## Features
 
@@ -30,7 +30,7 @@ A superset of commands is provided by the [tasklist-tools](https://github.com/ba
 - Support for `~text~`, `*text*`, `_text_`, `$text$` and ``text` `` formats.
 - Tasklists can be included using the `tasklist` selector.
 - Two space indentation is recommended.
-- Outline & folding is provided by [navigation-panel](https://github.com/bacadra/pulsar-navigation-panel).
+- Outline & folding is provided by [navigation-panel](https://github.com/asiloisad/pulsar-navigation-panel).
 
 ## Customization
 
