@@ -6,7 +6,7 @@ Tasklist simple grammar. This package is provided for `TODO`, `*.todo`, and `*.t
 
 ## Installation
 
-To install `language-tasklist` search for [language-tasklist](https://web.pulsar-edit.dev/packages/language-tasklist) in the Install pane of the Pulsar settings or run `ppm install language-tasklist`. Alternatively, you can run `ppm install asiloisad/pulsar-language-tasklist` to install a package directly from the Github repository.
+To install `language-tasklist` search for [language-tasklist](https://web.pulsar-edit.dev/packages/language-tasklist) in the Install pane of the Pulsar settings or run `ppm install language-tasklist`. Alternatively, you can run `ppm install asiloisad/pulsar-language-tasklist` to install a package directly from the GitHub repository.
 
 ## Tools
 
