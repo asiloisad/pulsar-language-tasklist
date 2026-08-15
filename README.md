@@ -2,15 +2,15 @@
 
 Syntax highlighting for tasklist files. Provides grammar for `TODO`, `*.todo`, and `*.tasklist` files with Unicode tick symbols.
 
-![language-tasklist](https://github.com/asiloisad/pulsar-language-tasklist/blob/master/assets/example.png?raw=true)
+![language-tasklist](https://github.com/asiloisad-pulsar/language-tasklist/blob/master/assets/example.png?raw=true)
 
 ## Features
 
 - **Unicode ticks**: Multiple task states using Unicode symbols.
 - **Chapters & headers**: Support for `#` chapters and `:` headers.
 - **Text formatting**: Support for `~text~`, `*text*`, `_text_`, `$text$` and `` `text` ``.
-- **Outline support**: Folding via [navigation-panel](https://github.com/asiloisad/pulsar-navigation-panel).
-- **Task commands**: Commands for task toggling and navigation, via [tasklist-tools](https://github.com/asiloisad/pulsar-tasklist-tools).
+- **Outline support**: Folding via [navigation-panel](https://github.com/asiloisad-pulsar/navigation-panel).
+- **Task commands**: Commands for task toggling and navigation, via [tasklist-tools](https://github.com/asiloisad-pulsar/tasklist-tools).
 
 ## Installation
 
